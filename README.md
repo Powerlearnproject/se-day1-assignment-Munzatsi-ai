@@ -59,4 +59,4 @@ Its important to help avoid that by making your questions clear and specific
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-its used in real world application like chatbots, virtual assistants and content generation tools eg creating images
+its used in real world application like chatbots, virtual assistants and content generation tools eg creating images ,creating codes
